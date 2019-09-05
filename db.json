@@ -1,70 +1,79 @@
 {
-"Content":[
-{
-"DATE":"2019-09-04",
-"Week_Day":"週一",
-"Time":[{"Start_Time":"09:00",
-"End_Time":"12:00",
-"SHIFT_ID":"A",
-"SHIFT_NAME":"上午",
-"Content":[
-{
-"ID":"002836",
-"Clinic_ID":"0001",
-"Clinic_Name":"耳鼻喉科",
-"DOCTOR_ID":"0001",
-"DOCTOR_NAME":"陳醫生",
-"REGD_STATUS":1,
-"Count":11
-},
-{
-"ID":"002336",
-"Clinic_ID":"0002",
-"Clinic_Name":"耳鼻喉科",
-"DOCTOR_ID":"0032",
-"DOCTOR_NAME":"吳醫生",
-"REGD_STATUS":0,
-"Count":0
-}
-]},{"Start_Time":"15:00",
-"End_Time":"18:00",
-"SHIFT_ID":"P",
-"SHIFT_NAME":"下午",
-"Content":[
-{
-"ID":"002836",
-"Clinic_ID":"0001",
-"Clinic_Name":"耳鼻喉科",
-"DOCTOR_ID":"0001",
-"DOCTOR_NAME":"陳醫生",
-"REGD_STATUS":1,
-"Count":11
-},
-{
-"ID":"002336",
-"Clinic_ID":"0002",
-"Clinic_Name":"耳鼻喉科",
-"DOCTOR_ID":"0032",
-"DOCTOR_NAME":"吳醫生",
-"REGD_STATUS":0,
-"Count":0
-}
-]},{"Start_Time":"18:00",
-"End_Time":"21:00",
-"SHIFT_ID":"N",
-"SHIFT_NAME":"晚上",
-"Content":[
-{
-"ID":"002836",
-"Clinic_ID":"0001",
-"Clinic_Name":"耳鼻喉科",
-"DOCTOR_ID":"0001",
-"DOCTOR_NAME":"陳醫生",
-"REGD_STATUS":1,
-"Count":11
-}
-]}]
-
-}
-]
+   "Content":[
+      {
+         "DATE":"2019-09-04",
+         "Week_Day":"週一",
+         "Time":[
+            {
+               "Start_Time":"09:00",
+               "End_Time":"12:00",
+               "SHIFT_ID":"A",
+               "SHIFT_NAME":"上午",
+               "Content":[
+                  {
+                     "ID":"002836",
+                     "Clinic_ID":"0001",
+                     "Clinic_Name":"耳鼻喉科",
+                     "DOCTOR_ID":"0001",
+                     "DOCTOR_NAME":"陳醫生",
+                     "REGD_STATUS":1,
+                     "Count":11
+                  },
+                  {
+                     "ID":"002336",
+                     "Clinic_ID":"0002",
+                     "Clinic_Name":"耳鼻喉科",
+                     "DOCTOR_ID":"0032",
+                     "DOCTOR_NAME":"吳醫生",
+                     "REGD_STATUS":0,
+                     "Count":0
+                  }
+               ]
+            },
+            {
+               "Start_Time":"15:00",
+               "End_Time":"18:00",
+               "SHIFT_ID":"P",
+               "SHIFT_NAME":"下午",
+               "Content":[
+                  {
+                     "ID":"002836",
+                     "Clinic_ID":"0001",
+                     "Clinic_Name":"耳鼻喉科",
+                     "DOCTOR_ID":"0001",
+                     "DOCTOR_NAME":"陳醫生",
+                     "REGD_STATUS":1,
+                     "Count":11
+                  },
+                  {
+                     "ID":"002336",
+                     "Clinic_ID":"0002",
+                     "Clinic_Name":"耳鼻喉科",
+                     "DOCTOR_ID":"0032",
+                     "DOCTOR_NAME":"吳醫生",
+                     "REGD_STATUS":0,
+                     "Count":0
+                  }
+               ]
+            },
+            {
+               "Start_Time":"18:00",
+               "End_Time":"21:00",
+               "SHIFT_ID":"N",
+               "SHIFT_NAME":"晚上",
+               "Content":[
+                  {
+                     "ID":"002836",
+                     "Clinic_ID":"0001",
+                     "Clinic_Name":"耳鼻喉科",
+                     "DOCTOR_ID":"0001",
+                     "DOCTOR_NAME":"陳醫生",
+                     "REGD_STATUS":1,
+                     "Count":11
+                  }
+               ]
+            }
+         ]
+      }
+   ]
 }
